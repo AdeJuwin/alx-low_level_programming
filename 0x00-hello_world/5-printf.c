@@ -3,11 +3,8 @@
 
 
 /**
- *
- * *main - function needs to return an integer after execution
- *
- * *Return: return 0 as success and 1 as fail
- *
+ *main - function needs to return an integer after execution
+ *Return: return 0 as success and 1 as fail
  */
 
 
