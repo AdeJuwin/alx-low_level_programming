@@ -2,14 +2,15 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
-/* main - Entry Point */
-/* Return: return 0 as success */
-/* betty style doc for function main goes there */
+/**
+* main - entry point
+*Return: return 0 as success
+*/
 
 int main(void)
 
 {
+
 	int n;
 
 	srand(time(0));
