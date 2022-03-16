@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** main - entry point
+/**
+ *main - entry point
  * Description: to use putchar in printing
  * Return: return 0 as success
  */
