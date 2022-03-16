@@ -8,8 +8,10 @@
 void print_alphabet_x10(void)
 {
 	char ch;
+	int i;
 
 	ch = 'a';
+
 
 	for (i = 1; i <= 10; i++)
 	{
@@ -20,3 +22,5 @@ void print_alphabet_x10(void)
 	}
 		_putchar('\n');
 	}
+
+}
